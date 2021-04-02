@@ -1,7 +1,7 @@
-[![tkms0106's github stats](https://github-readme-stats.vercel.app/api?username=tkms0106&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mikutas's github stats](https://github-readme-stats.vercel.app/api?username=mikutas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**tkms0106/tkms0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikutas/mikutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
