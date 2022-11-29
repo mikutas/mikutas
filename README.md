@@ -1,3 +1,7 @@
+<div data-iframe-width="400" data-iframe-height="270" data-share-badge-id="fc5c1929-2444-4875-949c-e77c11e95201" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="400" data-iframe-height="270" data-share-badge-id="719d7a27-562f-4fc4-9b8c-c539a5a6d793" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 [![mikutas's github stats](https://github-readme-stats.vercel.app/api?username=mikutas&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
