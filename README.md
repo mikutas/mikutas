@@ -5,11 +5,12 @@
 	<img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width=150 >
 </a>
 
+<a href="https://credsverse.com/credentials/8e11cbb6-547f-47dc-8014-1ff7ad92aa3a">
+	<img src="image/fundamentals-of-the-service-mesh.png" alt="Fundamentals of the Service Mesh" width=150>
+</a>
+
 [![mikutas's github stats](https://github-readme-stats.vercel.app/api?username=mikutas&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://credsverse.com/credentials/8e11cbb6-547f-47dc-8014-1ff7ad92aa3a">
-	<img src="image/fundamentals-of-the-service-mesh.png" alt="Fundamentals of the Service Mesh" width=500>
-</a>
 
 <!--
 **mikutas/mikutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
