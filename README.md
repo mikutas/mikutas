@@ -4,7 +4,7 @@
 <a href="https://www.credly.com/badges/719d7a27-562f-4fc4-9b8c-c539a5a6d793/public_url">
 	<img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width=150 >
 </a>
-
+<br/>
 <a href="https://credsverse.com/credentials/8e11cbb6-547f-47dc-8014-1ff7ad92aa3a">
 	<img src="image/fundamentals-of-the-service-mesh.png" alt="Fundamentals of the Service Mesh" width=150>
 </a>
